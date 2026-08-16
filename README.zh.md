@@ -45,7 +45,9 @@ DeepSeek Harness 增强工具包——**四个即插即用的小工具合而为�
 
 ![悬停某个标记时的预览卡片](components/msgrail/docs/screenshots/screenshot2.png)
 
-**archives** — *暂无截图。* 侧边栏底部出现"已归档"入口，按工作区分组列出归档会话；点击即可恢复或复制为新的会话。
+**archives** — 侧边栏底部"已归档"入口打开归档会话面板，按工作区分组；每个会话条目显示标题和最近活跃时间，并提供复制/恢复操作：
+
+![已归档会话面板（中文界面）](components/archives/screenshots/screenshot_zh.png)
 
 ## 环境要求
 

@@ -45,7 +45,9 @@ Screenshots are taken from the standalone component projects; components without
 
 ![A bar hovered, showing its preview card](components/msgrail/docs/screenshots/screenshot2.png)
 
-**archives** — *no screenshot available yet.* An "Archived" seat at the sidebar foot lists archived sessions grouped by workspace; click a row to restore or fork.
+**archives** — an "Archived" seat at the sidebar foot opens the archived-sessions panel, grouped by workspace; each row shows the title and last-active time, with fork and restore actions:
+
+![Archived Sessions panel (English UI)](components/archives/screenshots/screenshot_en.png)
 
 ## Requirements
 
