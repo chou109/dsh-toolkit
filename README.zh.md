@@ -31,15 +31,23 @@ DeepSeek Harness 增强工具包——**四个即插即用的小工具合而为�
 
 4. **archives — 让已归档的会话重新可见。** 侧边栏底部出现"已归档"入口，按工作区分组列出归档会话；点击即可恢复或复制为新的会话。
 
-## 展示图位置
+## 展示图
 
-_把工具包级别的截图放进 [`screenshots/`](screenshots) 文件夹，然后在下面引用。_
+截图取自各独立组件项目；没有截图的组件只做文字说明。
 
-![vision-bridge：粘贴图片后 AI 自动回答](screenshots/vision-bridge.png)
+**vision-bridge** — *暂无截图。* 在聊天框粘贴图片并发送（即使聊天模型不支持图片）：AI 会通过你配置的识图工具自动识别并回答。
 
-![workspace-launcher：工作区"..."菜单](screenshots/workspace-launcher.png)
+**workspace-launcher** — 工作区 **"..."** 菜单中的五个新增操作：
 
-![msgrail：聊天区左侧的消息轨](components/msgrail/docs/screenshots/screenshot.png)
+![工作区"..."菜单（中文界面）](components/workspace-launcher/screenshots/screenshot_zh.png)
+
+**msgrail** — 聊天区左侧的消息历史轨；悬停查看预览，点击跳转：
+
+![消息轨总览](components/msgrail/docs/screenshots/screenshot.png)
+
+![悬停某个标记时的预览卡片](components/msgrail/docs/screenshots/screenshot2.png)
+
+**archives** — *暂无截图。* 侧边栏底部出现"已归档"入口，按工作区分组列出归档会话；点击即可恢复或复制为新的会话。
 
 ## 环境要求
 

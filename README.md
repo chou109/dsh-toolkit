@@ -33,13 +33,21 @@ One install gives you four enhancements:
 
 ## Screenshots
 
-_Drop toolkit-level screenshots into the [`screenshots/`](screenshots) folder and reference them here._
+Screenshots are taken from the standalone component projects; components without captures show a description only.
 
-![vision-bridge: pasted image answered by the agent](screenshots/vision-bridge.png)
+**vision-bridge** — *no screenshot available yet.* Paste an image into the chat box and send it (even with a text-only model): the agent automatically recognizes it through your configured vision tool and answers.
 
-![workspace-launcher: workspace "..." menu](screenshots/workspace-launcher.png)
+**workspace-launcher** — the workspace **"..."** menu with the five added actions:
 
-![msgrail: message rail on the left of the chat](components/msgrail/docs/screenshots/screenshot.png)
+![Workspace "..." menu (English UI)](components/workspace-launcher/screenshots/screenshot_en.png)
+
+**msgrail** — the message-history rail docked on the left of the chat; hover a bar for a preview, click to jump:
+
+![Message rail overview](components/msgrail/docs/screenshots/screenshot.png)
+
+![A bar hovered, showing its preview card](components/msgrail/docs/screenshots/screenshot2.png)
+
+**archives** — *no screenshot available yet.* An "Archived" seat at the sidebar foot lists archived sessions grouped by workspace; click a row to restore or fork.
 
 ## Requirements
 
