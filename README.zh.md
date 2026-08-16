@@ -43,7 +43,7 @@ DeepSeek Harness 增强工具包——**四个即插即用的小工具合而为�
 
 **msgrail** — 聊天区左侧的消息历史轨；悬停查看预览，点击跳转：
 
-![悬停某个标记时的预览卡片](components/msgrail/docs/screenshots/screenshot2.png)
+![悬停预览卡片（中文界面）](components/msgrail/docs/screenshots/screenshot2_zh.png)
 
 **archives** — 侧边栏底部"已归档"入口打开归档会话面板，按工作区分组；每个会话条目显示标题和最近活跃时间，并提供复制/恢复操作：
 

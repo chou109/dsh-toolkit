@@ -43,7 +43,7 @@ Screenshots are taken from the standalone component projects; components without
 
 **msgrail** — the message-history rail docked on the left of the chat; hover a bar for a preview, click to jump:
 
-![A bar hovered, showing its preview card](components/msgrail/docs/screenshots/screenshot2.png)
+![Hover preview card (English UI)](components/msgrail/docs/screenshots/screenshot2_en.png)
 
 **archives** — an "Archived" seat at the sidebar foot opens the archived-sessions panel, grouped by workspace; each row shows the title and last-active time, with fork and restore actions:
 
